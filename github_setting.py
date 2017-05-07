@@ -17,7 +17,7 @@ git add . # 添加所有文件
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/HomingYuan/python_study.git
+git remote add origin https://github.com/HomingYuan/python_study.git # 第一次提交需要写，提交一次后直接 push
 
 git push -u origin master
 
